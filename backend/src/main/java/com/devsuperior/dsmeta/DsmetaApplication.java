@@ -1,13 +1,13 @@
-package com.devsuperior.dsmeta;
+package com.devsuperior.dsMeta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DsmetaApplication {
+public class DsMetaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DsmetaApplication.class, args);
+		SpringApplication.run(DsMetaApplication.class, args);
 	}
 
 }
